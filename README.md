@@ -1,5 +1,6 @@
 # Speed Reading with the Right Brain
 ## Learn to read ideas instead of just words
+![](speed_reading.png)
 * **Conceptual reading:** imagining / visualing what you are reading 
 
 ## Reading Strategies:
@@ -150,7 +151,7 @@ I'd like to share 3 examples of what it means for me to focus on the meaning of 
 The first examples are recursive algorithms written in C++ code.  The final example is a physical example of a Rubik's cube.
 
 #### Example 1:
-**Problem Statement:** https://leetcode.com/problems/maximum-difference-between-node-and-ancestor
+**[Problem Statement](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor)**
 
 Given the ```root``` of a binary tree, find the maximum value ```V``` for which there exists **different** nodes ```A``` and ```B``` where ```V = |A.val - B.val|``` and ```A``` is an ancestor of ```B```.
 
@@ -158,7 +159,7 @@ Given the ```root``` of a binary tree, find the maximum value ```V``` for which 
 
 ![](binary_tree.png)
 
-**Recursive Solution:** https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/discuss/292557/modern-C%2B%2B-solution
+**[Recursive Solution](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/discuss/292557/modern-C%2B%2B-solution)**
 ```cpp
 	class Solution {
 	public:
@@ -190,7 +191,7 @@ values of ancestor nodes are propogated back up the recursive stack and the answ
 deductively found per the problem statement's overlapping subproblems and optimal substructure.
 
 #### Example 2:
-**Problem Statement:** https://leetcode.com/problems/divisor-game/
+**[Problem Statement](https://leetcode.com/problems/divisor-game/)**
 
 Alice and Bob take turns playing a game, with Alice starting first.
 
@@ -203,7 +204,7 @@ Also, if a player cannot make a move, they lose the game.
 
 Return ```True``` if and only if Alice wins the game, assuming both players play optimally.
 
-**Recursive Solutions:** https://leetcode.com/problems/divisor-game/discuss/292472/C%2B%2B-solutions%3A-Top-Down-and-Bottom-Up
+**[Recursive Solutions](https://leetcode.com/problems/divisor-game/discuss/292472/C%2B%2B-solutions%3A-Top-Down-and-Bottom-Up)**
 ```cpp
 	namespace TopDown {
 	    class Solution {
@@ -255,8 +256,8 @@ until the final solution is reached.
 
 I learned to solve a Rubik's cube by memorizing the "beginners method", which is basically an algorithmic sequence
 of deterministic twists and turns combined with idempotent loop-invariants used to formulate a bottom-up solution.
-* https://www.rubiks.com/blog/how-to-solve-the-rubiks-cube
-* https://rubiks-cube-solver.com/how-to-solve/
+* [https://www.rubiks.com/blog/how-to-solve-the-rubiks-cube](https://www.rubiks.com/blog/how-to-solve-the-rubiks-cube)
+* [https://rubiks-cube-solver.com/how-to-solve/](https://rubiks-cube-solver.com/how-to-solve/)
 
 #### Algorithms and Speed Reading
 In summary, thinking algorithmically requires a similar mental leap of faith necessary for speed reading.  And the first step
