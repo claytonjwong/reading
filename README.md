@@ -70,7 +70,7 @@ taking place at "normal" speed in your mind.
 		1. look at the middle of the text on the page
 		2. coalesce all words in parallel as a whole phrase transformed into a single, concise thought
 		3. "see" the meaning of that concise thought in my mind's eye through visualization / conceptualization
-			* note: this is an internal subconcious automatic function of my right brain
+			* note: this is an internal subconscious automatic function of my right brain
 		4. look at the picture in the book 
 		5. repeat above steps as needed until full comprehension is acquired
 		6. verbalize the meaning to my kids
@@ -280,6 +280,10 @@ in word phrases.
 * **Chapter 3: The Picture of Dorian Gray**
 	* 2019-05-17
 		* 216 wpm
+* **Chapter 4: The War of the Worlds
+	* 2019-05-18
+		* 206 wpm
 
+		
 
 
