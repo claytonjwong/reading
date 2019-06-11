@@ -80,6 +80,29 @@ taking place at "normal" speed in your mind.
 		* the glance location is irrelevant as meaning of the text and the picture of the text are the same
 			* i.e. looking at text and visualizing its meaning is the same exact concept as looking at the picture and visualizing its meaning
 
+## Practice: Focus on How You are Reading
+* "Practices does not make perfect.  Only perfect practice makes perfect."
+	* Vince Lombardi
+* Practice creates habits ( both good and bad habits )
+	* The *type* of practice matters more than the *amount* of practice
+	* Example good / bad practice for "learning how to type"
+		* bad: hunt + peck faster with two-finger strategy looking at the keyboard
+		* good: proper hand position and memorization of key locations
+* 3 stages to **acquire** a **new skill**
+	1. **cognitive stage:** focused thought required to perform a task
+	2. **associative stage:** improve accuracy + efficiency, much less concentration required to perform a task
+	3. **autonomous stage:** perform task automatically with barely any concious effort at all
+* Secrets to reaching higher levels of any skill
+	* concious control while practicing and staying out of autopilot mode
+Comprehension and speed improve by staying conciously mindful of the concepts / ideas being expressed while reading.
+Similiarly, reading skill improves by staying conciously mindful about *how* you are reading.
+* Force your brain to adapt
+	* the brain restructures itself to meet cognitive demands
+	* training your brain to handle data more quickly improves your brain's ability to assimilate information
+* Memory storage
+	* repetition creates long lasting enhancements to signal transmission capabilities between neurons
+	* the more you practice a skill, the stronger your memory of that skill becomes
+
 ## Speed Reading is Speed Comprehending
 * acquire clearer / faster comprehension
 	* conceptualize phrases of words by imagining what the group of words mean
@@ -93,6 +116,7 @@ taking place at "normal" speed in your mind.
 
 ## Why Learn to Speed Read?
 * we live in the internet age where we are surrounded by information as text available on-demand
+	* new era of do-it-yourself education
 	* infinite amount of reading material
 	* reading speed is the limiting factor to acquiring knowledge
 	* superior reading skills provide greater access to information
@@ -255,7 +279,7 @@ until the final solution is reached.
 ![](rubiks_cube.png)
 
 I learned to solve a Rubik's cube by memorizing the "beginners method", which is basically an algorithmic sequence
-of deterministic twists and turns combined with idempotent loop-invariants used to formulate a bottom-up solution.
+of deterministic twists-and-turns combined with idempotent loop-invariants used to formulate a bottom-up solution.
 * [https://www.rubiks.com/blog/how-to-solve-the-rubiks-cube](https://www.rubiks.com/blog/how-to-solve-the-rubiks-cube)
 * [https://rubiks-cube-solver.com/how-to-solve/](https://rubiks-cube-solver.com/how-to-solve/)
 
@@ -280,10 +304,17 @@ in word phrases.
 * **Chapter 3: The Picture of Dorian Gray**
 	* 2019-05-17
 		* 216 wpm
-* **Chapter 4: The War of the Worlds
+* **Chapter 4: The War of the Worlds**
 	* 2019-05-18
 		* 206 wpm
+* **Chapter 5: Treasure Island**
+	* 2019-05-21
+		* 179 wpm
+* **Chapter 6: The Wonderful Wizard of Oz**
+	* 2019-05-23
+		* 258 wpm
 
-		
+
+
 
 
