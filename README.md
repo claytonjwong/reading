@@ -1,8 +1,9 @@
 # Speed Reading with the Right Brain
 ## Learn to read ideas instead of just words
 ![](speed_reading.png)
-* **Conceptual reading:** imagining / visualing what you are reading 
-
+* **ISBN:** 9781548063894
+* **Conceptual reading:** imagining / visualing what you are reading
+ 
 ## Reading Strategies:
 * **left brain:**
 	* serial processing, one-step at a time
@@ -161,6 +162,51 @@ would be an unintelligable cacophony of meaningless data.
 	* avoid "blanking out" which occurs when looking at words without understanding their meaning
 	* experience the idea VS looking at words and listening to words
 
+## Two Types of Information
+* **Episodic** information involve space and time
+    * real-world concrete things
+    * physical observations
+* **Semantic** information involve abstract ideas
+    * categories
+    * concepts
+
+*Example*: **"he is running faster than ever"**
+* **"he is running"** is episodic information
+* **"faster than ever"** is semantic information
+
+When conceptualizing while reading, episodic information is faster and easier to imagine
+than semantic information.  It is easier to think of real world things than abstract ideas.
+Altough processing semantic information takes more effort, it is an ability which makes us
+unique as humans.  We can understand how the past affects the present and use this information
+to prepare for the future.
+
+## Conciousness
+The prefrontal cortex is the concious part of the brain which constantly filters out important
+and irrelevant data.  This is also where the brain becomes aware of text as information.
+* short-term working memory
+* analyze, combine, compare, evaluate data
+
+Speed reading requires concious attention to actively extract ideas from text.
+The more concious you are, the more aware you are, the more you are actually living.
+Attention is the "you" inside your brain.  More attention means more you.
+
+## Memory
+A complex web of connected information.
+* Stores ideas and concepts (not data like a computer)
+    * Distributed throughout a network of associated attributes
+    * Altered each time they are accessed, so they change over time 
+
+## Concentration and Focus
+**Concentration** is applying more mental resources to your reading, it's thinking
+more about what the information means.  Increased concentration is like shining
+a brighter light on a subject.  In this way, concentrating on your reading makes
+the information clearer and easier to see.
+
+**Focus** is tuning out internal or external distrations in order to narrow your attention
+to the material at hand.  Focus increases your mental efficicency by minimizing the waste
+of resources.  Increased focus is like looking at the subject though a magnifying glass,
+as it strengthens attention on the information being read and reduces attention to distrations.
+
 ## Final Thoughts
 ### Uniqueness
 Your personal meaning of data is created by the selection and significance of attributes you connect to the information
@@ -313,8 +359,18 @@ in word phrases.
 * **Chapter 6: The Wonderful Wizard of Oz**
 	* 2019-05-23
 		* 258 wpm
-
-
+* **Chapter 7: The Adventures of Tom Sawyer**
+	* 2019-06-17
+		* 183 wpm
+* **Chapter 8: The Strange case of Dr. Jekyll and Mr. Hyde**
+    * 2019-06-27:
+        * 218 wpm
+* **Chapter 9: White Fang**
+    * 2019-06-27:
+        * 214 wpm
+* **Chapter 10: Memoirs of Sherlock Holmes**
+    * 2019-07-06:
+        * 200 wpm
 
 
 
