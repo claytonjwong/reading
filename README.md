@@ -180,7 +180,7 @@ Altough processing semantic information takes more effort, it is an ability whic
 unique as humans.  We can understand how the past affects the present and use this information
 to prepare for the future.
 
-## Conciousness
+## Consciousness
 The prefrontal cortex is the concious part of the brain which constantly filters out important
 and irrelevant data.  This is also where the brain becomes aware of text as information.
 * short-term working memory
@@ -206,6 +206,64 @@ the information clearer and easier to see.
 to the material at hand.  Focus increases your mental efficicency by minimizing the waste
 of resources.  Increased focus is like looking at the subject though a magnifying glass,
 as it strengthens attention on the information being read and reduces attention to distrations.
+
+## Mindset
+Your attention is a precious and finite resource.  Direct it towards the end-goal of reading: comprehension.
+* Attention is variable
+    * Some people have more attention and are more conscious than others
+    * A conscious mind can be strengthened with practice/exercise
+* Benefits of speed reading exercises and good technique:
+    * expand memory and become more intelligent
+    * focus attention, maintain better concentration and focus
+    * efficient use of working-memory of the conscious mind
+    * suppress internal/external distractions
+* Simple trick to increase attention
+    * Pretend I am reading info to teach it to someone else
+    * My future self is that someone else that I can teach this material to
+
+## Preparation
+* Prepare your brain for reading and learning by relaxing your mind and body.  Relaxation clears your
+working memory, erasing that mental white board.  Relaxation also calms the amygdala and prefrontal
+cortex, your emotional and conscious areas.  These two areas work closely together and will communicate
+better when they are undistracted and uncluttered.
+* The amydala is the hub of emotional responses and can produce a stimulating effect on the prefrontal cortex.
+The prefrontal cortex is the seat of executive function; it regulates your thoughts, actions, and emotions.
+There is a strong connection between these two regions and distractions in one will affect the other.
+Relaxing your mind clears the communication channel between them.
+* Examples:
+    * Close eyes and focus on breathe
+    * Smile to create a positive mood, which creates a relaxed and receptive mind
+    
+## Patience
+* Don't be overly concerned about how long it's taking you to finish reading something
+* Focus on the process and ignore the little voice continually asking "are we there yet?"
+* Worrying about progress only creates performance anxiety
+* Your goal is to read and understand information, concentrate on visualizing the material, and you'll
+get there faster
+
+## Variable Reading Speed
+Four factors to take into account:
+1. information density
+    * more complex info takes more time to comprehend
+2. information attachment
+    * **positive cycle:** the more you know about a subject, the more interesting it becomes, the more you'll want to know more about it
+    * developing more interest in a subject also changes your reading from passive to aggressive
+        * aggressively seek information as you read
+        * don't passively wait for ideas to occur to you
+    * **When something seems boring, it's often not material that's boring - it's us!**
+3. phrase attachment
+    * ideas are phrases of words chained together
+        * each phrase attaches to their previous and next phrases to form context and meaning
+    * subconscious mental process attaches phrases to one another
+4. flow
+    * start reading slowly to gain context, once context is established, faster reading can naturally occur
+    * the flow of one phrase to the next in the text
+    * easier to read well written, naturally flowing words and phrases
+* Summary:
+    * reading speed varies and this is good
+        * increases comprehension
+        * keeps our attention  
+
 
 ## Final Thoughts
 ### Uniqueness
@@ -326,6 +384,13 @@ until the final solution is reached.
 
 I learned to solve a Rubik's cube by memorizing the "beginners method", which is basically an algorithmic sequence
 of deterministic twists-and-turns combined with idempotent loop-invariants used to formulate a bottom-up solution.
+
+Look at the instructions below and find there's a handful of sequences which can be semantically chunked
+into a visual right-side of the brain.  When first learning these sequences, its serial processing of the left-brain,
+one twist, followed by the next, and so on.  Once the meaning of that sequence is comprehended and embedded
+as a chunk of data which can be visualized by the right-brain, then and only then does the sequence flow in
+effortless harmony.
+
 * [https://www.rubiks.com/blog/how-to-solve-the-rubiks-cube](https://www.rubiks.com/blog/how-to-solve-the-rubiks-cube)
 * [https://rubiks-cube-solver.com/how-to-solve/](https://rubiks-cube-solver.com/how-to-solve/)
 
@@ -371,6 +436,8 @@ in word phrases.
 * **Chapter 10: Memoirs of Sherlock Holmes**
     * 2019-07-06:
         * 200 wpm
-
+* **Chapter 11: The Voyages of Dr. Dolittle**
+    * 2019-07-12:
+        * 230 wpm
 
 
