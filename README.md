@@ -19,7 +19,7 @@
 * **right brain:** parallel processing of asbstract thoughts and ideas
 	* read chunks / phrases at a time as conceptualized ideas
 	* look for patterns of information simultaneously
-	* hollistic understanding of entire chunks of data as ideas or concepts
+	* holistic understanding of entire chunks of data as ideas or concepts
 
 The left brain and right brain have different personalities and see the world in different ways.  But it is
 the partnership of this odd couple which allows us to make careful analyses and leaps of intuition.
@@ -264,6 +264,20 @@ Four factors to take into account:
         * increases comprehension
         * keeps our attention  
 
+## Replace Bad Habits
+* Bad Habits
+    1. Subvocalizing
+        * internal speech often performed while reading (ie. "saying" the words in our heads)
+    2. Regression
+        * going back and re-reading what I previous "read"
+            * saccades
+                * an average reader performs 1 backwards saccade in every 4 foward saccades
+            * mind-wandering
+                * looking at text and thinking about something completely different (ie. what did that last sentence, paragraph, or page say again?)
+
+* Key to avoid Bad Habits
+    * Do *not* attempt to focus on *not* subvocalizing and regressing (ie. this is the same as focusing on things to *not* do!  It's extremely unhelpful and unproductive!)
+    * Instead avoid subvocalizing and regression by reading with focused visualization, purpose, and curiosity to proactively extract contextual meanings and thoughts.
 
 ## Final Thoughts
 ### Uniqueness
@@ -317,6 +331,29 @@ Given the ```root``` of a binary tree, find the maximum value ```V``` for which 
 When I look at this C++ code, I see a post-order binary tree traversal.  At each level of the recurrence, the minimum and maximum
 values of ancestor nodes are propogated back up the recursive stack and the answer is the maximum of all possible answers
 deductively found per the problem statement's overlapping subproblems and optimal substructure.
+
+The semantics of this code may be easier to "see" in the mind's eye with a preorder traversal of the tree.
+Rather than propogate min/max values back up the recursive stack, simply track the min/max during the traversal.
+When the base case is reached, then calculate the maximum difference as the maximum minus the minimum seen
+in the recursive callstack thus far, and recursively return the solution as the maximum
+of the left/right sub-tree solutions. 
+
+```cpp
+    class Solution {
+    public:
+        int maxAncestorDiff(TreeNode* root) {
+            return go(root, root->val, root->val);
+        }
+    private:
+        int go(TreeNode* root, int mini, int maxi) {
+            if (!root)
+                return maxi - mini;
+            mini = min(mini, root->val);
+            maxi = max(maxi, root->val);
+            return max(go(root->left, mini, maxi), go(root->right, mini, maxi));
+        }
+    };
+```
 
 #### Example 2:
 **[Problem Statement](https://leetcode.com/problems/divisor-game/)**
@@ -439,5 +476,6 @@ in word phrases.
 * **Chapter 11: The Voyages of Dr. Dolittle**
     * 2019-07-12:
         * 230 wpm
-
-
+* **Chapter 12: The Life and Adventures of Robin Crusoe and Daniel Defoe**
+    * 2019-09-25:
+        * 226 wpm
