@@ -284,10 +284,8 @@ Four factors to take into account:
 Your personal meaning of data is created by the selection and significance of attributes you connect to the information
 through your previous knowledge, experience, and interests.
 
-I started speed reading before I knew I as capable of speed reading, simplying by trying to speed read.  Before I tried, I always figured that I was just a slow reader, and that was the way things were.  However, after I took a course "Learning How to Learn", I understood my brain is a dyamically changing organ with significant un-used capacity and unknown capabilities.  I figured, what the hell, might as well try, after all, lady luck favors those who try.  So I tried and I am successfully in the process of acquiring speed reading as a strength in my skillset.
-
 ### Syntax VS Semantics
-I personally learn best by performing recall and thought experiments while reading books.  Speed reading has helped me to acquire data efficiently and effectively by focusing on the meaning of the content rather than the content itself.
+I personally learn best by performing active recall and thought experiments while reading books.  Speed reading has helped me to acquire data efficiently and effectively by focusing on the meaning of the content rather than the content itself.
 
 I'd like to share 3 examples of what it means for me to focus on the meaning of content rather than the content itself.
 The first examples are recursive algorithms written in C++ code.  The final example is a physical example of a Rubik's cube.
@@ -409,6 +407,7 @@ Return ```True``` if and only if Alice wins the game, assuming both players play
 	}
 ```
 
+Fundamentally, this is a basic algorithm.  Alice wins if and only if there are no moves left and it is Bob's turn.
 When I look at this C++ code, I once again see the recurrence formula based on the problem statement.  The top-down solution
 uses recursion with memoization to solve each overlapping subproblem exactly once.  The top-down solution is acquired
 after the base cases are reached and the answer is propogated back up the recursive stack.  The bottom-up solution uses the same
@@ -431,12 +430,23 @@ effortless harmony.
 * [https://www.rubiks.com/blog/how-to-solve-the-rubiks-cube](https://www.rubiks.com/blog/how-to-solve-the-rubiks-cube)
 * [https://rubiks-cube-solver.com/how-to-solve/](https://rubiks-cube-solver.com/how-to-solve/)
 
+About a year after I started practicing with a Rubik's cube, I was easily able to solve the 3x3 cube in under 2 minutes
+using the beginner's method.  At this time I started learning the Fridrich method, which is also known by via the acronyms 
+F2L, OLL, and PLL (ie. first two layers, orientation of the last layer, and permutations of the last layer).  It was extremely
+beneficial to master the beginner's method before I started learning this method, since the beginner's method provides
+a basic intuitive understanding of how each piece moves and the potential adverse affects of those moves upon other pieces.
+
+* http://en.lerubikscube.com/fridrich-method-3x3/
+
 #### Algorithms and Speed Reading
 In summary, thinking algorithmically requires a similar mental leap of faith necessary for speed reading.  And the first step
 at acquiring these skillsets is to simply try.  Try to "see" meaning with the mind's eye.  This was *not* a fast, immediate
 process.  Instead I slowly acquired this skillset, a little bit at a time each day.  I slowly reduced the amount of time necessary
 to understand the idea / concept behind the code, from weeks to days to hours to minutes to seconds.  Now I can observe these
 "oh yeah, duh!" moments in my mind's eye more efficiently and effectively.
+
+>"Take the first step in faith.  You don't have to see the whole staircase.  Just take the first step."
+> -- Dr. Martin Luther King Jr.
 
 The idea of focusing knowledge transfer on understanding ideas, is simple, but *not* easy.  Like all things in life,
 it takes time and practice.  Simply practice to learn a little at a time each day.
