@@ -489,3 +489,6 @@ in word phrases.
 * **Chapter 12: The Life and Adventures of Robin Crusoe and Daniel Defoe**
     * 2019-09-25:
         * 226 wpm
+* **Chapter 13: Gulliver's Travels**
+    * 2019-09-27:
+        * 254 wpm
