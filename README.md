@@ -492,3 +492,6 @@ in word phrases.
 * **Chapter 13: Gulliver's Travels**
     * 2019-09-27:
         * 254 wpm
+* **Chapter 15: The Three Musketeers**
+    * 2019-09/29:
+        * 242 wpm
