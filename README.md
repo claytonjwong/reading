@@ -492,6 +492,14 @@ in word phrases.
 * **Chapter 13: Gulliver's Travels**
     * 2019-09-27:
         * 254 wpm
+* **Chapter 14: Twenty Thousand Leagues Under The Sea**
+    * 2019-10-01: 250 wpm
 * **Chapter 15: The Three Musketeers**
     * 2019-09/29:
         * 242 wpm
+* **Chapter 16: Moby Dick**
+    * 2019-10-01:
+        * 214 wpm
+* **Chapter 17: Frankenstein**
+    * 2019-10-01:
+        * 205 wpm
