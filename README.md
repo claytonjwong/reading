@@ -427,16 +427,13 @@ one twist, followed by the next, and so on.  Once the meaning of that sequence i
 as a chunk of data which can be visualized by the right-brain, then and only then does the sequence flow in
 effortless harmony.
 
-* [https://www.rubiks.com/blog/how-to-solve-the-rubiks-cube](https://www.rubiks.com/blog/how-to-solve-the-rubiks-cube)
-* [https://rubiks-cube-solver.com/how-to-solve/](https://rubiks-cube-solver.com/how-to-solve/)
+* [Rubik's Cube Tutorial and Resource Guide](https://claytonjwong.github.io/rubiks-cube/)
 
 About a year after I started practicing with a Rubik's cube, I was easily able to solve the 3x3 cube in under 2 minutes
 using the beginner's method.  At this time I started learning the Fridrich method, which is also known by via the acronyms 
 F2L, OLL, and PLL (ie. first two layers, orientation of the last layer, and permutations of the last layer).  It was extremely
 beneficial to master the beginner's method before I started learning this method, since the beginner's method provides
 a basic intuitive understanding of how each piece moves and the potential adverse affects of those moves upon other pieces.
-
-* http://en.lerubikscube.com/fridrich-method-3x3/
 
 #### Algorithms and Speed Reading
 In summary, thinking algorithmically requires a similar mental leap of faith necessary for speed reading.  And the first step
