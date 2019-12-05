@@ -500,3 +500,12 @@ in word phrases.
 * **Chapter 17: Frankenstein**
     * 2019-10-01:
         * 205 wpm
+
+### 100 one-minute speed reading drills
+* 1: Pride and Prejudice
+    * 2019-11-27: 181s
+* 2: Anne of Green Gables
+    * 2019-12-02: 168s
+* 3: Dracula
+    * 2019-12-05: 156s
+
