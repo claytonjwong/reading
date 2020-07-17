@@ -301,29 +301,29 @@ Given the ```root``` of a binary tree, find the maximum value ```V``` for which 
 
 **[Recursive Solution](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/discuss/292557/modern-C%2B%2B-solution)**
 ```cpp
-	class Solution {
-	public:
-	    int maxAncestorDiff( TreeNode* root, int ans=0 ){
-	        go( root, ans );
-	        return ans;
-	    }
-	private:
-	    using MinMax = pair< int,int >;
-	    MinMax go( TreeNode* root, int& ans ){
-	        MinMax same{ root->val, root->val };
-	        if( ! root->left && ! root->right )
-	            return same;
-	        auto[ minL, maxL ] = root->left?  go( root->left, ans )  : same;
-	        auto[ minR, maxR ] = root->right? go( root->right, ans ) : same;
-	        ans = max({ ans,
-	                    abs( root->val - minL ),
-	                    abs( root->val - minR ),
-	                    abs( root->val - maxL ),
-	                    abs( root->val - maxR ),
-	        });
-	        return{ min({ minL, minR, root->val }), max({ maxL, maxR, root->val }) };
-	    }
-	};
+class Solution {
+public:
+    int maxAncestorDiff( TreeNode* root, int ans=0 ){
+        go( root, ans );
+        return ans;
+    }
+private:
+    using MinMax = pair< int,int >;
+    MinMax go( TreeNode* root, int& ans ){
+        MinMax same{ root->val, root->val };
+        if( ! root->left && ! root->right )
+            return same;
+        auto[ minL, maxL ] = root->left?  go( root->left, ans )  : same;
+        auto[ minR, maxR ] = root->right? go( root->right, ans ) : same;
+        ans = max({ ans,
+                    abs( root->val - minL ),
+                    abs( root->val - minR ),
+                    abs( root->val - maxL ),
+                    abs( root->val - maxR ),
+        });
+        return{ min({ minL, minR, root->val }), max({ maxL, maxR, root->val }) };
+    }
+};
 ```
 
 When I look at this C++ code, I see a post-order binary tree traversal.  At each level of the recurrence, the minimum and maximum
@@ -337,20 +337,20 @@ in the recursive callstack thus far, and recursively return the solution as the 
 of the left/right sub-tree solutions. 
 
 ```cpp
-    class Solution {
-    public:
-        int maxAncestorDiff(TreeNode* root) {
-            return go(root, root->val, root->val);
-        }
-    private:
-        int go(TreeNode* root, int mini, int maxi) {
-            if (!root)
-                return maxi - mini;
-            mini = min(mini, root->val);
-            maxi = max(maxi, root->val);
-            return max(go(root->left, mini, maxi), go(root->right, mini, maxi));
-        }
-    };
+class Solution {
+public:
+    int maxAncestorDiff(TreeNode* root) {
+        return go(root, root->val, root->val);
+    }
+private:
+    int go(TreeNode* root, int mini, int maxi) {
+        if (!root)
+            return maxi - mini;
+        mini = min(mini, root->val);
+        maxi = max(maxi, root->val);
+        return max(go(root->left, mini, maxi), go(root->right, mini, maxi));
+    }
+};
 ```
 
 #### Example 2:
@@ -369,42 +369,42 @@ Return ```True``` if and only if Alice wins the game, assuming both players play
 
 **[Recursive Solutions](https://leetcode.com/problems/divisor-game/discuss/292472/C%2B%2B-solutions%3A-Top-Down-and-Bottom-Up)**
 ```cpp
-	namespace TopDown {
-	    class Solution {
-	    public:
-	        bool divisorGame( int N ){
-	            return go( N );
-	        }
-	    private:
-	        using Memo = unordered_map< int, bool >;
-	        bool go( int N, Memo&& memo={}, int turn=0 ){
-	            if( memo.find( N ) != memo.end() )
-	                return memo[ N ];
-	            if( N == 1 )
-	                return memo[ N ] = turn == 1; // alice wins if there are no moves left and it is bob's turn
-	            for( int i=1; i <= N/2; ++i )
-	                if( N % i == 0 && go( N-i, move( memo ), turn^1 ) )
-	                    return memo[ N ] = true;
-	            return memo[ N ] = false;
-	        }
-	    };
-	}
-	namespace BottomUp {
-	    class Solution {
-	    public:
-	        using Collection = bitset< 1001 >;
-	        bool divisorGame( int N, Collection dp={} ){
-	            dp[ 0 ] = true;
-	            for( auto i{ 1 }; i <= N; ++i )
-	                for( auto j{ 1 }; j <= i/2; ++j )
-	                    if( i % j == 0 && ! dp[ i-j ] ){
-	                        dp[ i ] = true;
-	                        break;
-	                    }
-	            return dp[ N ];
-	        }
-	    };
-	}
+namespace TopDown {
+    class Solution {
+    public:
+        bool divisorGame( int N ){
+            return go( N );
+        }
+    private:
+        using Memo = unordered_map< int, bool >;
+        bool go( int N, Memo&& memo={}, int turn=0 ){
+            if( memo.find( N ) != memo.end() )
+                return memo[ N ];
+            if( N == 1 )
+                return memo[ N ] = turn == 1; // alice wins if there are no moves left and it is bob's turn
+            for( int i=1; i <= N/2; ++i )
+                if( N % i == 0 && go( N-i, move( memo ), turn^1 ) )
+                    return memo[ N ] = true;
+            return memo[ N ] = false;
+        }
+    };
+}
+namespace BottomUp {
+    class Solution {
+    public:
+        using Collection = bitset< 1001 >;
+        bool divisorGame( int N, Collection dp={} ){
+            dp[ 0 ] = true;
+            for( auto i{ 1 }; i <= N; ++i )
+                for( auto j{ 1 }; j <= i/2; ++j )
+                    if( i % j == 0 && ! dp[ i-j ] ){
+                        dp[ i ] = true;
+                        break;
+                    }
+            return dp[ N ];
+        }
+    };
+}
 ```
 
 Fundamentally, this is a basic algorithm.  Alice wins if and only if there are no moves left and it is Bob's turn.
