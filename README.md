@@ -203,7 +203,7 @@ a brighter light on a subject.  In this way, concentrating on your reading makes
 the information clearer and easier to see.
 
 **Focus** is tuning out internal or external distrations in order to narrow your attention
-to the material at hand.  Focus increases your mental efficicency by minimizing the waste
+to the material at hand.  Focus increases your mental efficiency by minimizing the waste
 of resources.  Increased focus is like looking at the subject though a magnifying glass,
 as it strengthens attention on the information being read and reduces attention to distrations.
 
