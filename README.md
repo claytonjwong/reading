@@ -226,7 +226,7 @@ Your attention is a precious and finite resource.  Direct it towards the end-goa
 working memory, erasing that mental white board.  Relaxation also calms the amygdala and prefrontal
 cortex, your emotional and conscious areas.  These two areas work closely together and will communicate
 better when they are undistracted and uncluttered.
-* The amydala is the hub of emotional responses and can produce a stimulating effect on the prefrontal cortex.
+* The amygdala is the hub of emotional responses and can produce a stimulating effect on the prefrontal cortex.
 The prefrontal cortex is the seat of executive function; it regulates your thoughts, actions, and emotions.
 There is a strong connection between these two regions and distractions in one will affect the other.
 Relaxing your mind clears the communication channel between them.
