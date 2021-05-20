@@ -515,4 +515,4 @@ So I realize I have significant room for improving reading speed and comprehensi
 ### Update 2021-05-19
 I've been using speed reading each morning to read the news, and it has been helpful for [Leetcode Contests](https://leetcode.com/claytonjwong/).  I have multiple Q1 solutions AC in less than one-minute.  This would be impossible without speed reading (speed comprehension).
 
-Screenshares: https://www.youtube.com/user/claytonjwong/videos
+* [See LeetCode Screenshares on YouTube](https://www.youtube.com/user/claytonjwong/videos)
