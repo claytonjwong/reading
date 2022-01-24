@@ -2,8 +2,8 @@
 ## Learn to read ideas instead of just words
 ![](speed_reading.png)
 * **ISBN:** 9781548063894
-* **Conceptual reading:** imagining / visualing what you are reading
- 
+* **Conceptual reading:** imagining / visualizing what you are reading
+
 ## Reading Strategies:
 * **left brain:**
 	* serial processing, one-step at a time
@@ -16,7 +16,7 @@
 		* the rate of physical eye movement is the limiting factor
 		* maximum ~500 words per minute ( wpm )
 
-* **right brain:** parallel processing of asbstract thoughts and ideas
+* **right brain:** parallel processing of abstract thoughts and ideas
 	* read chunks / phrases at a time as conceptualized ideas
 	* look for patterns of information simultaneously
 	* holistic understanding of entire chunks of data as ideas or concepts
@@ -27,7 +27,7 @@ the partnership of this odd couple which allows us to make careful analyses and 
 ## What is speed reading?
 * Text-to-Idea transformation
 	* knowledge transfer objectively measured by rate of comprehension
-	* reading faster is equivalent to comprending faster
+	* reading faster is equivalent to comprehending faster
 		* instead of reading words, focus on seeing ideas
 
 Real reading is something that occurs AFTER you recognize the words.  It is what happens
@@ -49,10 +49,10 @@ taking place at "normal" speed in your mind.
 	* acquire proper mindset for reading phrases by understanding how / why phrase highlighting works
 * develop a personal heuristic for a dynamic phrase highlighting algorithm
 	* practice on un-highlighted text ( non-deterministic process, there is no right or wrong )
-	* focus attention on meanings of phrases being read by comprehending larger chuks of information at a time
+	* focus attention on meanings of phrases being read by comprehending larger chunks of information at a time
 	* extract keywords which tie the overall structure of sentences / paragraphs together
 		* common keywords are nouns and verbs
-		* usally the *first* word of a sentence and *last* word of each phrase
+		* usually the *first* word of a sentence and *last* word of each phrase
 
 ## Practice
 * reading text in larger chunks transfers greater amounts of information per glance
@@ -72,11 +72,11 @@ taking place at "normal" speed in your mind.
 		2. coalesce all words in parallel as a whole phrase transformed into a single, concise thought
 		3. "see" the meaning of that concise thought in my mind's eye through visualization / conceptualization
 			* note: this is an internal subconscious automatic function of my right brain
-		4. look at the picture in the book 
+		4. look at the picture in the book
 		5. repeat above steps as needed until full comprehension is acquired
 		6. verbalize the meaning to my kids
 	* small, concise chunks of meaningful data at a time
-	* perfect for visualizating words as phrases and transforming those phrases into thoughts / meanings / ideas / images
+	* perfect for visualizing words as phrases and transforming those phrases into thoughts / meanings / ideas / images
 	* there's literally a picture of the text's meaning in the book ( visualization of the meaning is simply a glance away )
 		* the glance location is irrelevant as meaning of the text and the picture of the text are the same
 			* i.e. looking at text and visualizing its meaning is the same exact concept as looking at the picture and visualizing its meaning
@@ -92,11 +92,11 @@ taking place at "normal" speed in your mind.
 * 3 stages to **acquire** a **new skill**
 	1. **cognitive stage:** focused thought required to perform a task
 	2. **associative stage:** improve accuracy + efficiency, much less concentration required to perform a task
-	3. **autonomous stage:** perform task automatically with barely any concious effort at all
+	3. **autonomous stage:** perform task automatically with barely any conscious effort at all
 * Secrets to reaching higher levels of any skill
-	* concious control while practicing and staying out of autopilot mode
-Comprehension and speed improve by staying conciously mindful of the concepts / ideas being expressed while reading.
-Similiarly, reading skill improves by staying conciously mindful about *how* you are reading.
+	* conscious control while practicing and staying out of autopilot mode
+Comprehension and speed improve by staying consciously mindful of the concepts / ideas being expressed while reading.
+Similarly, reading skill improves by staying consciously mindful about *how* you are reading.
 * Force your brain to adapt
 	* the brain restructures itself to meet cognitive demands
 	* training your brain to handle data more quickly improves your brain's ability to assimilate information
@@ -108,7 +108,7 @@ Similiarly, reading skill improves by staying conciously mindful about *how* you
 * acquire clearer / faster comprehension
 	* conceptualize phrases of words by imagining what the group of words mean
 		* transfer data to the right side of your brain for parallel processing
-		* imagine whole, complex ideas at once, as a single cohensive thought
+		* imagine whole, complex ideas at once, as a single, cohesive thought
 	* distinct pieces of information are whole units of meaning ( ideas which can be visualized / conceptualized )
 		* actively seek conceptual units of information
 			* *not* smooth, consistent flows of evenly distributed data
@@ -121,25 +121,25 @@ Similiarly, reading skill improves by staying conciously mindful about *how* you
 	* infinite amount of reading material
 	* reading speed is the limiting factor to acquiring knowledge
 	* superior reading skills provide greater access to information
-* phyically enhanced brain
+* physically enhanced brain
 	* boost memory, focus, concentration, and analytical thinking
 	* increased awareness of life by having a deeper reality of what things actually mean
-	* your mind is what you "feed" it ( similiar concept: "you are what you eat" )
+	* your mind is what you "feed" it ( similar concept: "you are what you eat" )
 * cost-benefit analysis
 	* cost
 		* time investment
 		* it's free, time is continually refunded by reading faster
 	* benefit
-		* enjoyful to read, comprehend, and organize data into useful knowledge to be better informed
+		* enjoyable to read, comprehend, and organize data into useful knowledge to be better informed
 		* the more you know, the easier to becomes to know more by correlating new data with known data
 		* increased comprehension and retention of data is necessary in today's fast changing technical world
 
 ## 3 Mind Tricks
 **1. Read meaningful group of words at a time**
-* *etymological examples of coalesced words as hollistic ideas:*
+* *etymological examples of coalesced words as holistic ideas:*
 	* 1940: *percent*
 		* *per* meaning *for-each*
-		* *cent* meaning *one-hundreth*
+		* *cent* meaning *one-hundredth*
 	* 1890: *forever* meaning *for-a-while*
 	* 1925: *nearby* meaning *near-by-house*
 	* 1960: *worthwhile* meaning *worth-your-time*
@@ -149,8 +149,7 @@ reading phrases is just a further extension of this process of thinking and comm
 conceptual ideas.
 
 **2. Concentrate on Whole Ideas instead of Words**
-* It's *not* possible to pronounce two words simultaneously, one atop the other.  Even if you could the result
-would be an unintelligable cacophony of meaningless data.
+* It's *not* possible to pronounce two words simultaneously, one atop the other.  Even if you could the result would be a cacophony of meaningless audible wavelengths.
 * Likewise, it's *not* possible to think of separate words simultaneously.
 * It is possible to think of the complete idea as a single thought represented by a group of words
 	* Words have definitions, but real meaning is determined by the way multiple words are combined together
@@ -175,26 +174,26 @@ would be an unintelligable cacophony of meaningless data.
 * **"faster than ever"** is semantic information
 
 When conceptualizing while reading, episodic information is faster and easier to imagine
-than semantic information.  It is easier to think of real world things than abstract ideas.
-Altough processing semantic information takes more effort, it is an ability which makes us
+then semantic information.  It is easier to think of real world things than abstract ideas.
+Although processing semantic information takes more effort, it is an ability which makes us
 unique as humans.  We can understand how the past affects the present and use this information
 to prepare for the future.
 
 ## Consciousness
-The prefrontal cortex is the concious part of the brain which constantly filters out important
+The prefrontal cortex is the conscious part of the brain which constantly filters out important
 and irrelevant data.  This is also where the brain becomes aware of text as information.
 * short-term working memory
 * analyze, combine, compare, evaluate data
 
-Speed reading requires concious attention to actively extract ideas from text.
-The more concious you are, the more aware you are, the more you are actually living.
+Speed reading requires conscious attention to actively extract ideas from text.
+The more conscious you are, the more aware you are, the more you are actually living.
 Attention is the "you" inside your brain.  More attention means more you.
 
 ## Memory
 A complex web of connected information.
 * Stores ideas and concepts (not data like a computer)
     * Distributed throughout a network of associated attributes
-    * Altered each time they are accessed, so they change over time 
+    * Altered each time they are accessed, so they change over time
 
 ## Concentration and Focus
 **Concentration** is applying more mental resources to your reading, it's thinking
@@ -202,10 +201,10 @@ more about what the information means.  Increased concentration is like shining
 a brighter light on a subject.  In this way, concentrating on your reading makes
 the information clearer and easier to see.
 
-**Focus** is tuning out internal or external distrations in order to narrow your attention
+**Focus** is tuning out internal or external distractions in order to narrow your attention
 to the material at hand.  Focus increases your mental efficiency by minimizing the waste
 of resources.  Increased focus is like looking at the subject though a magnifying glass,
-as it strengthens attention on the information being read and reduces attention to distrations.
+as it strengthens attention on the information being read and reduces attention to distractions.
 
 ## Mindset
 Your attention is a precious and finite resource.  Direct it towards the end-goal of reading: comprehension.
@@ -223,9 +222,7 @@ Your attention is a precious and finite resource.  Direct it towards the end-goa
 
 ## Preparation
 * Prepare your brain for reading and learning by relaxing your mind and body.  Relaxation clears your
-working memory, erasing that mental white board.  Relaxation also calms the amygdala and prefrontal
-cortex, your emotional and conscious areas.  These two areas work closely together and will communicate
-better when they are undistracted and uncluttered.
+working memory, erasing that mental white board.  Relaxation also calms the amygdala and prefrontal cortex (your emotional and conscious areas of the brain).  These two areas work closely together and will communicate better when they are undistracted and uncluttered.
 * The amygdala is the hub of emotional responses and can produce a stimulating effect on the prefrontal cortex.
 The prefrontal cortex is the seat of executive function; it regulates your thoughts, actions, and emotions.
 There is a strong connection between these two regions and distractions in one will affect the other.
@@ -233,7 +230,7 @@ Relaxing your mind clears the communication channel between them.
 * Examples:
     * Close eyes and focus on breathe
     * Smile to create a positive mood, which creates a relaxed and receptive mind
-    
+
 ## Patience
 * Don't be overly concerned about how long it's taking you to finish reading something
 * Focus on the process and ignore the little voice continually asking "are we there yet?"
@@ -271,7 +268,7 @@ Four factors to take into account:
     2. Regression
         * going back and re-reading what I previous "read"
             * saccades
-                * an average reader performs 1 backwards saccade in every 4 foward saccades
+                * an average reader performs 1 backwards saccade in every 4 forward saccades
             * mind-wandering
                 * looking at text and thinking about something completely different (ie. what did that last sentence, paragraph, or page say again?)
 
@@ -334,7 +331,7 @@ The semantics of this code may be easier to "see" in the mind's eye with a preor
 Rather than propogate min/max values back up the recursive stack, simply track the min/max during the traversal.
 When the base case is reached, then calculate the maximum difference as the maximum minus the minimum seen
 in the recursive callstack thus far, and recursively return the solution as the maximum
-of the left/right sub-tree solutions. 
+of the left/right sub-tree solutions.
 
 ```cpp
 class Solution {
@@ -410,7 +407,7 @@ namespace BottomUp {
 Fundamentally, this is a basic algorithm.  Alice wins if and only if there are no moves left and it is Bob's turn.
 When I look at this C++ code, I once again see the recurrence formula based on the problem statement.  The top-down solution
 uses recursion with memoization to solve each overlapping subproblem exactly once.  The top-down solution is acquired
-after the base cases are reached and the answer is propogated back up the recursive stack.  The bottom-up solution uses the same
+after the base cases are reached and the answer is propagated back up the recursive stack.  The bottom-up solution uses the same
 recurrence formula but in reverse by starting at the base case and building upon the recurrence of overlapping subproblems
 until the final solution is reached.
 
@@ -430,7 +427,7 @@ effortless harmony.
 * [Rubik's Cube Tutorial and Resource Guide](https://claytonjwong.github.io/rubiks-cube/)
 
 About a year after I started practicing with a Rubik's cube, I was easily able to solve the 3x3 cube in under 2 minutes
-using the beginner's method.  At this time I started learning the Fridrich method, which is also known by via the acronyms 
+using the beginner's method.  At this time I started learning the Fridrich method, which is also known by via the acronyms
 F2L, OLL, and PLL (ie. first two layers, orientation of the last layer, and permutations of the last layer).  It was extremely
 beneficial to master the beginner's method before I started learning this method, since the beginner's method provides
 a basic intuitive understanding of how each piece moves and the potential adverse affects of those moves upon other pieces.
@@ -451,7 +448,7 @@ it takes time and practice.  Simply practice to learn a little at a time each da
 ## Objective Measurements
 I started actively trying to speed read via rapid serial visual presentation ( RSVP ).  With the RSVP strategy,
 I was able to read ~400 wpm.  Now I'm focusing on reading chunks of data at a time, and I've observed my reading speed
-has decreased signficantly, however I believe my rate of reading will increase with practice conceptualizing ideas
+has decreased significantly, however I believe my rate of reading will increase with practice conceptualizing ideas
 in word phrases.
 * **Chapter 2: Pride and Prejudice**
 	* 2019-05-16
