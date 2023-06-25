@@ -259,7 +259,7 @@ Four factors to take into account:
 * Summary:
     * reading speed varies and this is good
         * increases comprehension
-        * keeps our attention  
+        * keeps our attention
 
 ## Replace Bad Habits
 * Bad Habits
