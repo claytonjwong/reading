@@ -454,8 +454,8 @@ in word phrases.
   * *2019-05-16:* **181** wpm
   * *2023-06-24:* **431** wpm
 * **Chapter 3: The Picture of Dorian Gray**
-	* 2019-05-17
-		* 216 wpm
+  * *2019-05-17:* **216** wpm
+  * *2023-06-25:* **375** wpm
 * **Chapter 4: The War of the Worlds**
 	* 2019-05-18
 		* 206 wpm
