@@ -451,8 +451,8 @@ I was able to read ~400 wpm.  Now I'm focusing on reading chunks of data at a ti
 has decreased significantly, however I believe my rate of reading will increase with practice conceptualizing ideas
 in word phrases.
 * **Chapter 2: Pride and Prejudice**
-	* 2019-05-16
-		* 181 wpm
+  * *2019-05-16:* **181** wpm
+  * *2023-06-24:* **431** wpm
 * **Chapter 3: The Picture of Dorian Gray**
 	* 2019-05-17
 		* 216 wpm
