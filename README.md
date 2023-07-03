@@ -462,8 +462,8 @@ in word phrases.
   * *2019-05-18:* **206** wpm
   * *2023-07-01:* **337** wpm
 * **Chapter 5: Treasure Island**
-	* 2019-05-21
-		* 179 wpm
+  * *2019-05-21:* **179** wpm
+  * *2023-07-03:* **346** wpm
 * **Chapter 6: The Wonderful Wizard of Oz**
 	* 2019-05-23
 		* 258 wpm
