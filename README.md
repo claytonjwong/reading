@@ -465,8 +465,8 @@ in word phrases.
   * *2019-05-21:* **179** wpm
   * *2023-07-03:* **346** wpm
 * **Chapter 6: The Wonderful Wizard of Oz**
-	* 2019-05-23
-		* 258 wpm
+  * *2019-05-23:* **258** wpm
+  * *2023-07-04:* **461** wpm
 * **Chapter 7: The Adventures of Tom Sawyer**
 	* 2019-06-17
 		* 183 wpm
