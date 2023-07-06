@@ -471,8 +471,9 @@ in word phrases.
   * *2019-06-17:* **183** wpm
   * *2023-07-05:* **301** wpm
 * **Chapter 8: The Strange case of Dr. Jekyll and Mr. Hyde**
-    * 2019-06-27:
-        * 218 wpm
+  * *2019-06-27:* **218** wpm
+  * *2023-07-06:* **359** wpm
+
 * **Chapter 9: White Fang**
     * 2019-06-27:
         * 214 wpm
