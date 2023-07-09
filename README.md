@@ -475,6 +475,7 @@ in word phrases.
   * *2023-07-06:* **359** wpm
 * **Chapter 9: White Fang**
     * *2019-06-27:* **214** wpm
+    * *2023-07-09:* **361** wpm
 * **Chapter 10: Memoirs of Sherlock Holmes**
   * **2019-07-06:* **200** wpm
   * **2023-07-08:* **363** wpm
