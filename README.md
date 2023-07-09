@@ -479,7 +479,8 @@ in word phrases.
   * **2019-07-06:* **200** wpm
   * **2023-07-08:* **363** wpm
 * **Chapter 11: The Voyages of Dr. Dolittle**
-  * 2019-07-12:* **230** wpm
+  * *2019-07-12:* **230** wpm
+  * *2023-07-09:* **400** wpm
 * **Chapter 12: The Life and Adventures of Robin Crusoe and Daniel Defoe**
     * 2019-09-25:
         * 226 wpm
