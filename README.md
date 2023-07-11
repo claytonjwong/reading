@@ -483,11 +483,10 @@ in word phrases.
   * *2019-07-12:* **230** wpm
   * *2023-07-09:* **400** wpm
 * **Chapter 12: The Life and Adventures of Robin Crusoe and Daniel Defoe**
-  * **2019-09-25:** **226** wpm
-  * **2023-07-10:** **405** wpm
+  * *2019-09-25:* **226** wpm
+  * *2023-07-10:* **405** wpm
 * **Chapter 13: Gulliver's Travels**
-    * 2019-09-27:
-        * 254 wpm
+  * **2019-09-27:** * 254 wpm
 * **Chapter 14: Twenty Thousand Leagues Under The Sea**
     * 2019-10-01: 250 wpm
 * **Chapter 15: The Three Musketeers**
