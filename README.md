@@ -489,7 +489,8 @@ in word phrases.
   * *2019-09-27:* **254** wpm
   * *2023-07-11:* **375** wpm
 * **Chapter 14: Twenty Thousand Leagues Under The Sea**
-    * 2019-10-01: 250 wpm
+  * *2019-10-01:* **250** wpm
+  * *2023-07-12:* **392** wpm
 * **Chapter 15: The Three Musketeers**
     * 2019-09/29:
         * 242 wpm
