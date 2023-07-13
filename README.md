@@ -492,8 +492,8 @@ in word phrases.
   * *2019-10-01:* **250** wpm
   * *2023-07-12:* **392** wpm
 * **Chapter 15: The Three Musketeers**
-    * 2019-09/29:
-        * 242 wpm
+  * *2019-09-29:* **242** wpm
+  * *2023-07-13:* **359** wpm
 * **Chapter 16: Moby Dick**
     * 2019-10-01:
         * 214 wpm
