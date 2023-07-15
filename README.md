@@ -498,8 +498,8 @@ in word phrases.
   * *2019-10-01:* **214** wpm
   * *2023-07-14:* **342** wpm
 * **Chapter 17: Frankenstein**
-    * 2019-10-01:
-        * 205 wpm
+  * *2019-10-01:* **205** wpm
+  * *2023-07-15:* **425** wpm
 
 ### 100 one-minute speed reading drills
 * 1: Pride and Prejudice
