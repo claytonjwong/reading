@@ -502,6 +502,8 @@ in word phrases.
   * *2023-07-15:* **425** wpm
 * **Chapter 18: The Scarlett Pimpernel**
   * *2023-07-17:* **392** wpm
+* **Chapter 19: Little Women**
+  * *2023-07-17:* **384** wpm
 
 ### 100 one-minute speed reading drills
 * 1: Pride and Prejudice
