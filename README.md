@@ -506,12 +506,12 @@ in word phrases.
   * *2023-07-17:* **384** wpm
 
 ### 100 one-minute speed reading drills
-* 1: Pride and Prejudice
-    * 2019-11-27: 181s
-* 2: Anne of Green Gables
-    * 2019-12-02: 168s
-* 3: Dracula
-    * 2019-12-05: 156s
+* **Chapter 1: Pride and Prejudice**
+  * *2019-11-27:* **181** seconds
+* **Chapter 2: Anne of Green Gables**
+  * *2019-12-02:* **168** seconds
+* **Chapter 3: Dracula**
+  * *2019-12-05:* **156** seconds
 
 ### Update 2020-07-17
 So I realize I have significant room for improving reading speed and comprehension.  I'm able to avoid subvocalizing as I read now, however, subvocalizing has been the only strategy I've used to read for the majority of my life.  Anyhow, I stopped timing myself a while ago after I've identified a significant bottleneck in my comprehension due to limited vocabulary.  And about a year ago, I started expanding my vocabulary via flash cards for GRE preparation. That was super boring, so I found an app named [Elevate](https://www.elevateapp.com/) which has been very helpful!  I've consistently used this app for 2-3 minutes each day, and its a more enjoyable method to learning new words.
