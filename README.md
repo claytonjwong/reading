@@ -508,6 +508,7 @@ in word phrases.
 ### 100 one-minute speed reading drills
 * **Chapter 1: Pride and Prejudice**
   * *2019-11-27:* **181** seconds
+  * *2023-07-19:* **111** seconds
 * **Chapter 2: Anne of Green Gables**
   * *2019-12-02:* **168** seconds
 * **Chapter 3: Dracula**
