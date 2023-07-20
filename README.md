@@ -522,3 +522,6 @@ So I realize I have significant room for improving reading speed and comprehensi
 I've been using speed reading each morning to read the news, and it has been helpful for [Leetcode Contests](https://leetcode.com/claytonjwong/).  I have multiple Q1 solutions AC in less than one-minute.  This would be impossible without speed reading (speed comprehension).
 
 * [See LeetCode Screenshares on YouTube](https://www.youtube.com/user/claytonjwong/videos)
+
+### Update 2023-07-20
+When I first timed my reading speed in 2019, I read around 200 wpm.  Now in 2023, I can read ~400 wpm, which is super cool: I've doubled my reading speed in about 4 years.  Reading is super enjoyable!  The upshot: it takes time and effort to change my mind.  For me, learning has been an upward sprial and is a self-sustaining life-long project.
