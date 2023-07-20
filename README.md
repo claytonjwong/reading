@@ -511,6 +511,7 @@ in word phrases.
   * *2023-07-19:* **111** seconds
 * **Chapter 2: Anne of Green Gables**
   * *2019-12-02:* **168** seconds
+  * *2023-07-20:* **122** seconds
 * **Chapter 3: Dracula**
   * *2019-12-05:* **156** seconds
 
