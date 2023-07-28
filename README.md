@@ -506,6 +506,9 @@ in word phrases.
   * *2023-07-17:* **384** wpm
 
 ### 100 one-minute speed reading drills
+
+🎯 Read 600 words per minute (60 seconds)
+
 * **Chapter 1: Pride and Prejudice**
   * *2019-11-27:* **181** seconds
   * *2023-07-19:* **111** seconds
