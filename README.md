@@ -556,7 +556,7 @@ in word phrases.
   * *2023-08-17:* **71** seconds
 * **Chapter 24: Dubliners**
   * *2023-08-18:* **91** seconds
-* **Chapter 25: What's Coming After WWI"
+* **Chapter 25: What's Coming After WWI**
   * *2023-08-19:* **82** seconds
 
 ### Update 2020-07-17
