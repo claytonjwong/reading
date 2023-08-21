@@ -558,7 +558,7 @@ in word phrases.
   * *2023-08-18:* **91** seconds
 * **Chapter 25: What's Coming After WWI**
   * *2023-08-19:* **82** seconds
-* **Chapter 25: Old Greek Stories**
+* **Chapter 26: Old Greek Stories**
   * *2023-08-20:* **74** seconds
 
 ### Update 2020-07-17
