@@ -560,9 +560,9 @@ in word phrases.
   * *2023-08-19:* **82** seconds
 * **Chapter 26: Old Greek Stories**
   * *2023-08-20:* **74** seconds
-* **Chapter 26: The Empire of Russia**
+* **Chapter 27: The Empire of Russia**
   * *2023-08-21:* **76** seconds
-* **Chapter 27: Black Beauty**
+* **Chapter 28: Black Beauty**
   * *2023-08-22:** **88** seconds
 
 ### Update 2020-07-17
