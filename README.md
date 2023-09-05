@@ -589,7 +589,7 @@ in word phrases.
 * **Chapter 40: The Legend of Sleepy Hollow**
   * *2023-09-03:* **76** seconds
 * **Chapter 41: The Bobbsey Twins at School**
-  * *2023-09-04:* **78** seconds
+  * *2023-09-04:* **77** seconds
 * **Chapter 42: The Bobbsey Twins at Snow Lodge**
   * *2023-09-05:* **77** seconds
 
