@@ -596,7 +596,7 @@ in word phrases.
   * *2023-09-06:* **78** seconds
 * **Chapter 44: The Bobbset Twins in Washington**
   * *2023-09-07:* **76** seconds
-* **Chapter 44: The Bobbset Twins on a Houseboat**
+* **Chapter 45: The Bobbset Twins on a Houseboat**
   * *2023-09-08:* **76** seconds
 
 ### Update 2020-07-17
