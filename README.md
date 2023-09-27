@@ -627,6 +627,8 @@ in word phrases.
   * *2023-09-25:* **96** seconds
 * **Chapter 60: The Story of Electricity**
   * *2023-09-26:* **90** seconds
+* **Chapter 61: A Room with a View**
+  * *2023-09-27:* **87** seconds
 
 ### Update 2020-07-17
 So I realize I have significant room for improving reading speed and comprehension.  I'm able to avoid subvocalizing as I read now, however, subvocalizing has been the only strategy I've used to read for the majority of my life.  Anyhow, I stopped timing myself a while ago after I've identified a significant bottleneck in my comprehension due to limited vocabulary.  And about a year ago, I started expanding my vocabulary via flash cards for GRE preparation. That was super boring, so I found an app named [Elevate](https://www.elevateapp.com/) which has been very helpful!  I've consistently used this app for 2-3 minutes each day, and its a more enjoyable method to learning new words.
