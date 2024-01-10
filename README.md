@@ -652,6 +652,8 @@ in word phrases.
   * *2024-01-08:* **103** seconds
 * **Chapter 72: Autobiography of Charles Darwin**
   * *2023-01-09:* **92** seconds
+* **Chapter 73: A Ghost Story**
+  * *2024-01-10:* **93** seconds
 
 
 ### Update 2020-07-17
