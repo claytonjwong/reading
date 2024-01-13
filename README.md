@@ -656,6 +656,8 @@ in word phrases.
   * *2024-01-10:* **93** seconds
 * **Chapter 74: A Kindergarten Story Book**
   * *2024-01-11:* **85** seconds
+* **Chapter 75: The Life of Abraham Lincoln**
+  * *2024-01-12:* **87** seconds
 
 
 ### Update 2020-07-17
