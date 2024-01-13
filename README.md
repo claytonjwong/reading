@@ -658,6 +658,8 @@ in word phrases.
   * *2024-01-11:* **85** seconds
 * **Chapter 75: The Life of Abraham Lincoln**
   * *2024-01-12:* **87** seconds
+* **Chapter 76: Stories of Inventors**
+  * *2024-01-13:** **84** seconds
 
 
 ### Update 2020-07-17
