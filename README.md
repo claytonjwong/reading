@@ -660,6 +660,8 @@ in word phrases.
   * *2024-01-12:* **87** seconds
 * **Chapter 76: Stories of Inventors**
   * *2024-01-13:** **84** seconds
+* **Chapter 77: Autobiography of Andrew Carnegie**
+  * *2024-01-14:** **77** seconds
 
 
 ### Update 2020-07-17
