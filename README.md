@@ -664,6 +664,8 @@ in word phrases.
   * *2024-01-14:* **77** seconds
 * **Chapter 78: Mark Twain**
   * *2024-01-15:* **90** seconds
+* **Chapter 79: In the Court of King Arthur**
+  * *2024-01-16:* **119** seconds
 
 
 ### Update 2020-07-17
