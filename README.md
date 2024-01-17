@@ -666,6 +666,8 @@ in word phrases.
   * *2024-01-15:* **90** seconds
 * **Chapter 79: In the Court of King Arthur**
   * *2024-01-16:* **119** seconds
+* **Chapter 80: How to Tell a Story**
+  * *2024-01-17:* **99** seconds
 
 
 ### Update 2020-07-17
