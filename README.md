@@ -668,6 +668,8 @@ in word phrases.
   * *2024-01-16:* **119** seconds
 * **Chapter 80: How to Tell a Story**
   * *2024-01-17:* **99** seconds
+* **Chapter 81: The Complete Book of Cats**
+  * *2024-01-18:* **90** seconds
 
 
 ### Update 2020-07-17
