@@ -670,6 +670,8 @@ in word phrases.
   * *2024-01-17:* **99** seconds
 * **Chapter 81: The Complete Book of Cats**
   * *2024-01-18:* **90** seconds
+* **Chapter 82: Ancient Man**
+  * *2024-01-19:* **94** seconds
 
 
 ### Update 2020-07-17
