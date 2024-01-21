@@ -672,6 +672,8 @@ in word phrases.
   * *2024-01-18:* **90** seconds
 * **Chapter 82: Ancient Man**
   * *2024-01-19:* **94** seconds
+* **Chapter 83: The History of the Telephone**
+  * *2024-01-21:* **86** seconds
 
 
 ### Update 2020-07-17
