@@ -674,6 +674,8 @@ in word phrases.
   * *2024-01-19:* **94** seconds
 * **Chapter 83: The History of the Telephone**
   * *2024-01-21:* **86** seconds
+* **Chapter 84: Romeo and Juliet**
+  * *2024-01-22:* **107** seconds
 
 
 ### Update 2020-07-17
