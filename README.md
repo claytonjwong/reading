@@ -678,6 +678,8 @@ in word phrases.
   * *2024-01-22:* **107** seconds
 * **Chapter 85: Henry VIII and His Court**
   * *2024-01-23:* **83** seconds
+* **Chapter 86: The Scouts of Stonewall**
+  * *2024-01-24:* **93** seconds
 
 
 ### Update 2020-07-17
