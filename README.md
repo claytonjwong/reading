@@ -680,6 +680,8 @@ in word phrases.
   * *2024-01-23:* **83** seconds
 * **Chapter 86: The Scouts of Stonewall**
   * *2024-01-24:* **93** seconds
+* **Chapter 87: Speech Power**
+  * *2024-01-26:* **100** seconds
 
 
 ### Update 2020-07-17
