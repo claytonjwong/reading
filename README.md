@@ -682,6 +682,8 @@ in word phrases.
   * *2024-01-24:* **93** seconds
 * **Chapter 87: Speech Power**
   * *2024-01-26:* **100** seconds
+* **Chapter 88: Talks on Talking**
+  * *2024-01-27:* **105** seconds
 
 
 ### Update 2020-07-17
