@@ -684,6 +684,8 @@ in word phrases.
   * *2024-01-26:* **100** seconds
 * **Chapter 88: Talks on Talking**
   * *2024-01-27:* **105** seconds
+* **Chapter 89: An Ideal Family**
+  * *2024-01-30:* **101** seconds
 
 
 ### Update 2020-07-17
