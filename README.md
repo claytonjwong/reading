@@ -686,6 +686,8 @@ in word phrases.
   * *2024-01-27:* **105** seconds
 * **Chapter 89: An Ideal Family**
   * *2024-01-30:* **101** seconds
+* **Chapter 90: A Charmed Life**
+  * *2024-01-31:* **89** seconds
 
 
 ### Update 2020-07-17
