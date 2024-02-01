@@ -688,6 +688,8 @@ in word phrases.
   * *2024-01-30:* **101** seconds
 * **Chapter 90: A Charmed Life**
   * *2024-01-31:* **89** seconds
+* **Chapter 91: Cave Boy of the Stone Age**
+  * *2024-02-01:* **102** seconds
 
 
 ### Update 2020-07-17
