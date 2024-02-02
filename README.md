@@ -690,6 +690,8 @@ in word phrases.
   * *2024-01-31:* **89** seconds
 * **Chapter 91: Cave Boy of the Stone Age**
   * *2024-02-01:* **102** seconds
+* **Chapter 92: Two Penniless Princesses**
+  * *2024-02-02:* **106** seconds
 
 
 ### Update 2020-07-17
