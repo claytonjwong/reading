@@ -694,6 +694,8 @@ in word phrases.
   * *2024-02-02:* **106** seconds
 * **Chapter 93: The $30,000 Bequest**
   * *2024-02-03: **103** seconds
+* **Chapter 94: How to Show Your Own Dog**
+  * *2024-02-04:* **91** seconds
 
 
 ### Update 2020-07-17
