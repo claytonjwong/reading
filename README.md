@@ -692,6 +692,8 @@ in word phrases.
   * *2024-02-01:* **102** seconds
 * **Chapter 92: Two Penniless Princesses**
   * *2024-02-02:* **106** seconds
+* **Chapter 93: The $30,000 Bequest**
+  * *2024-02-03: **103** seconds
 
 
 ### Update 2020-07-17
