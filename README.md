@@ -696,6 +696,8 @@ in word phrases.
   * *2024-02-03: **103** seconds
 * **Chapter 94: How to Show Your Own Dog**
   * *2024-02-04:* **91** seconds
+* **Chapter 95: Story Hour Readers**
+  * *2024-02-05:* **85** seconds
 
 
 ### Update 2020-07-17
