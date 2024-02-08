@@ -700,6 +700,8 @@ in word phrases.
   * *2024-02-05:* **85** seconds
 * **Chapter 96: Political Ideals**
   * *2024-02-06:* **90** seconds
+* **Chapter 97: The Speckled Band**
+  * *2024-02-08:* **88** seconds
 
 
 ### Update 2020-07-17
