@@ -698,6 +698,8 @@ in word phrases.
   * *2024-02-04:* **91** seconds
 * **Chapter 95: Story Hour Readers**
   * *2024-02-05:* **85** seconds
+* **Chapter 96: Political Ideals**
+  * *2024-02-06:* **90** seconds
 
 
 ### Update 2020-07-17
