@@ -702,6 +702,8 @@ in word phrases.
   * *2024-02-06:* **90** seconds
 * **Chapter 97: The Speckled Band**
   * *2024-02-08:* **88** seconds
+* **Chapter 98: Dracula's Guest**
+  * *2024-02-09:* **94** seconds
 
 
 ### Update 2020-07-17
