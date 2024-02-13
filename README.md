@@ -704,6 +704,8 @@ in word phrases.
   * *2024-02-08:* **88** seconds
 * **Chapter 98: Dracula's Guest**
   * *2024-02-09:* **94** seconds
+* **Chapter 99: A School Story**
+  * *2024-02-13:* **87** seconds
 
 
 ### Update 2020-07-17
