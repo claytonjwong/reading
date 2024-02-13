@@ -81,7 +81,7 @@ taking place at "normal" speed in your mind.
 			* i.e. looking at text and visualizing its meaning is the same exact concept as looking at the picture and visualizing its meaning
 
 ## Practice: Focus on How You are Reading
-* "Practices does not make perfect.  Only perfect practice makes perfect."
+* "Practice does not make perfect.  Only perfect practice makes perfect."
 	* Vince Lombardi
 * Practice creates habits ( both good and bad habits )
 	* The *type* of practice matters more than the *amount* of practice
